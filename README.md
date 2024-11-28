@@ -4,6 +4,10 @@
 
 ## Tech Stack & Dependencies
 
+### Preview
+![image](https://github.com/user-attachments/assets/947bb553-f002-422e-8ea1-d51f1b4acb9c)
+
+
 ### Core Framework
 - React (using 'use client' directive for Client Component)
 - Next.js (evident from project structure)
